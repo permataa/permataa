@@ -1,4 +1,3 @@
-
 ### Hi! 👋 I'm Permata Ayu 
 
 I'm a Machine Learning Enthusiast with a strong passion for building smart solutions using Python and state-of-the-art ML algorithms. I enjoy diving deep into data, creating predictive models, and exploring how machines can understand images, texts, and patterns.
@@ -28,8 +27,6 @@ I’ve worked on various projects involving:
 ---
 
 ### 🛠 Tech Stack
-### 🛠 Tech Stack
-
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks)
