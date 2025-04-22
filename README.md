@@ -22,6 +22,7 @@ I’ve worked on various projects involving:
 - Cloud-based ML (GCP, AWS, Microsoft ML)
 
 📬 **Reach me at:** https://www.linkedin.com/in/permatayu/ 
+
 🎶 **Fun fact:** I enjoy learning new tools by turning them into projects!
 
 ---
